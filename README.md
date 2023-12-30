@@ -1,7 +1,6 @@
 ![image](https://github.com/StefanoBattaglia1993/Stefano-s-Portfolio/assets/154975180/faba1bf5-b5a4-493d-96c7-44c260c04e98)
 
 
-
 ## [Austin Bike Rentals from 2014](https://lookerstudio.google.com/reporting/27d28d6a-0f3b-4024-9c12-7736f158c28e/page/g6clD)
 ### Project 1: BI tools, SQL, BigQuery
 
@@ -10,7 +9,6 @@ This Project is a Dashboard I've developed starting from public Google dataset [
 * In the First page I've added a brief explanation of the dataset with static charts that show the number of trips and the number of trips considering the bike's type 
 * In the second page we have the Dashboard with filters to analize the Market trends
 * With SQL language I've created the calculation field
-
 
 
 ## [Practical Exam - VIVENDO - Food Claims Process](https://app.datacamp.com/workspace/w/008320c9-17b6-447e-9e50-9063468f27b6/edit)
@@ -25,7 +23,6 @@ The test involves four exercice:
 * Communication and Visualization : Creating dashboards, reports and presentations
 
 
-
 ## [Netflix movie selector on Gooogle Spreadsheets](https://docs.google.com/spreadsheets/d/1bh14ZlDO7N9Ilnb3h-bfHI9-JtoOqlaZF9FuSMrtVPY/edit?usp=sharing )
 ### Project 3: Spreadsheets, Java APPS SCRIPT
 
@@ -35,4 +32,3 @@ The final result is an organized file with 4 tab:
 * FILTRED DATASET  :  page with 3 dropdown filters connected to a query
 * stats  :  page with simple analysis of the dataset
 * netflix_titles.csv  :  the original dataset
-
