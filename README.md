@@ -8,7 +8,7 @@ This Project is a Dashboard I've developed starting from public Google dataset [
 * First I've used BigQuery to connect the dataset to Looker Studion
 * In the First page I've added a brief explanation of the dataset with static charts that show the number of trips and the number of trips considering the bike's type 
 * In the second page we have the Dashboard with filters to analize the Market trends
-* With SQL language I've created the calculation field
+* With SQL language I've created the calculation fields
 
 
 ## [Practical Exam - VIVENDO - Food Claims Process](https://app.datacamp.com/workspace/w/008320c9-17b6-447e-9e50-9063468f27b6/edit)
@@ -16,7 +16,7 @@ This Project is a Dashboard I've developed starting from public Google dataset [
 
 This Project is my practical exam for [Data Analyst Certification whit DataCamp](https://www.datacamp.com/certificate/DAA0012506343271#)
 
-The test involves four exercice:
+The test involves four exercices:
 * Data Management: data cleaning and processing of a dirty dataset with explanation
 * Exploratory Analysis :  from creating summaries of data to transforming data into relevant formats for generating reports and dashboards
 * Statistical Experimentation: using data and relevant statistical approaches to perform experiments
