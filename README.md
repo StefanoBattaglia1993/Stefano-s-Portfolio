@@ -1,4 +1,5 @@
-![Steveport](https://github.com/StefanoBattaglia1993/Stefano.s_Portfolio/assets/154975180/c884653f-f034-48be-b47a-dcd18fa42805)
+
+![Senza titolssso](https://github.com/StefanoBattaglia1993/Stefano.s_Portfolio/assets/154975180/840fe614-5e74-4c74-aac4-af16836e5561)
 
 ## [Orders Tracker SteEX](https://lookerstudio.google.com/reporting/26ca43ad-44b3-47c9-ae43-c49518a045ce/page/2dIoD)
 ### Project 1: BI tools, SQL, Spreadsheet
