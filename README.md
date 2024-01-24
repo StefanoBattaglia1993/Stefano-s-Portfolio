@@ -1,6 +1,6 @@
 ![image](https://github.com/StefanoBattaglia1993/Stefano-s-Portfolio/assets/154975180/faba1bf5-b5a4-493d-96c7-44c260c04e98)
 
-## [Orders Tracker SteEX](https://lookerstudio.google.com/reporting/27d28d6a-0f3b-4024-9c12-7736f158c28e/page/g6clD)
+## [Orders Tracker SteEX](https://lookerstudio.google.com/reporting/26ca43ad-44b3-47c9-ae43-c49518a045ce/page/2dIoD)
 ### Project 1: BI tools, SQL, Spreadsheet
 
 This Project is a interactive Dashboard I've developed starting from this [Google dataset](https://docs.google.com/spreadsheets/d/1wY2KNjLcdWgVEyuKP1FAyIips-Ahfptg2NzHtJF9RSU/edit#gid=422745916)
