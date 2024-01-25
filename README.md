@@ -13,6 +13,10 @@ This Project is a interactive Dashboard I've developed starting from this [Googl
 * In the fourth page we have a Dashboard to analyze the monthly/annual profits
 * In the fifth page we have a Dashboard to analyze the product sales
 
+I've use the dashboard to create this analysis : [2017_Case_Study_Orders.pdf](https://github.com/StefanoBattaglia1993/Stefano.s_Portfolio/files/14053460/2017_Case_Study_Orders.pdf)
+
+
+
 ## [Austin Bike Rentals from 2014](https://lookerstudio.google.com/reporting/27d28d6a-0f3b-4024-9c12-7736f158c28e/page/g6clD)
 ### Project 2: BI tools, SQL, BigQuery
 
