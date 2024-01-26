@@ -1,5 +1,5 @@
 
-![Senza titolssso](https://github.com/StefanoBattaglia1993/Stefano.s_Portfolio/assets/154975180/840fe614-5e74-4c74-aac4-af16836e5561)
+![steproj](https://github.com/StefanoBattaglia1993/Stefano.s_Portfolio/assets/154975180/74e7e419-f91f-458a-8488-45d9a02376ee)
 
 ## [Orders Tracker SteEX](https://lookerstudio.google.com/reporting/26ca43ad-44b3-47c9-ae43-c49518a045ce/page/2dIoD)
 ### Project 1: BI tools, SQL, Spreadsheet
